@@ -1,4 +1,5 @@
-# A Ballouz lab guide to papers in functional genomics
+# Papers in functional genomics 
+(original: https://gillislab.github.io/background/)
 
 ## Co-expression 
 
