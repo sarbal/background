@@ -1,5 +1,5 @@
 # Papers in functional genomics 
-(original: https://gillislab.github.io/background/)
+(original: https://gillislab.github.io/background/, large credit to Maggie!)
 
 ## Co-expression 
 
